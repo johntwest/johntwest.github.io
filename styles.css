@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600&family=Playfair+Display:wght@400;700&display=swap');
+
+/* styles for text and pic columns */
+.index-text h1 {
+  margin-top: 0;
+}
+
+.bio-text h2 {
+  margin-top: 0;
+}
+
+/* ── Body ── */
+body {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 300;
+  color: #2b2b2b;
+  letter-spacing: 0.02em;
+  line-height: 1.8;
+}
+
+/* ── Table of contents ── */
+
+#toc-title {
+  font-family: Arial !important;
+  font-size: 0.85rem !important;
+  text-decoration: underline !important;
+}
+
+#quarto-margin-sidebar{
+  width: 140px;
+  margin-left: 11rem;
+  margin-top: 3rem;
+}
+
+#quarto-margin-sidebar .nav-link{
+  font-family: Arial !important;
+  font-size: 0.75rem !important;
+}
+
+#quarto-margin-sidebar .nav-link.active{
+  color: #CC4E00 !important;
+  border-left: 3px solid #CC4E00 !important;
+}
+
+#quarto-margin-sidebar .nav-link:hover{
+  color: #CC4E00 !important;
+  border-left: solid #ffffff !important;
+}
+
+/* ── Headings ── */
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+/* ── Navbar ── */
+.navbar {
+  background-color: #ffffff !important;
+  border-bottom: 2px solid #043371;
+}
+
+.navbar-brand:hover {
+  color: #CC4E00 !important;
+}
+
+.navbar-brand, .nav-link {
+  color: #2b2b2b !important;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  font-size: 1rem;
+}
+
+.nav-link:hover {
+  color: #CC4E00 !important;
+}
+
+.navbar-brand img {
+  max-height: 40px !important;
+  height: auto;
+}
+
+/* ── Page footer ── */
+.nav-footer {
+  color: white !important;
+}
+
+.nav-footer a {
+  color: white !important;
+}
+
+/* ── Links ── */
+a {
+  color: #CC4E00;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ── Page width ── */
+.page-columns {
+  max-width: 900px;
+  margin: 0 auto;
+}
+

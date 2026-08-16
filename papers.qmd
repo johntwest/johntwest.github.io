@@ -1,0 +1,55 @@
+---
+title: ""
+toc: true
+format:
+  html:
+    css: papers.css
+---
+
+### Under Review
+
+**West, J. T.**, Wagner, R. L., Broderick, M. L., Seo, M. S., Dennis, N. A. (*under review*). 	Comparing different frontal processes as predictors of older individuals’ false memory 	in 	a “cage match” between neuropsychological assessments, cortical thickness, neural activation, and representational distinctiveness. [https://doi.org/10.31234/osf.io/7s2gb_v1](https://doi.org/10.31234/osf.io/7s2gb_v1){target="_blank"}  
+
+### 2026
+
+**West, J. T.**, Luchini, S. A., Beaty, R. E., Dennis, N. A. (2026). Are creative people more 	susceptible to false memory? Evidence for age- and task-related differences. 
+*Creativity Research Journal*. [https://doi.org/10.1080/10400419.2026.2703186](https://doi.org/10.1080/10400419.2026.2703186){target="_blank"}
+
+**West, J. T.**, Mulligan, N. W., Lindquist, K. A. (2026). Putting emotional memories in context: Psychological constructionism as a novel paradigm for emotional memory research. *Perspectives on Psychological Science, 21*. [https://doi.org/10.1177/17456916261425152](https://doi.org/10.1177/17456916261425152){target="_blank"}
+
+**West, J. T.**, Dubec, L., Wagner, R. L., & Dennis, N. A. (2026).
+Exploring the neural underpinnings of semantic and perceptual false memories. *Neuropsychologia, 221*, 109332. [https://doi.org/10.1016/j.neuropsychologia.2025.109332](https://doi.org/10.1016/j.neuropsychologia.2025.109332){target="_blank"}
+
+### 2025
+
+**West, J. T.**, Mulligan, N. W., Bornstein, B. H. (2025). Four (and a half) preregistered failures to replicate the weapon focus effect in online samples. *Psychology, Public Policy, and Law, 32*, 48-64. [https://doi.org/10.1037/law0000469](https://doi.org/10.1037/law0000469){target="_blank"}
+
+**West, J. T.**, Wagner, R. L., Steinkrauss, A., & Dennis, N. A. (2025). Investigating the cognitive correlates of semantic and perceptual false memory in older and younger adults: A multi-group latent variable approach. *Journal of Memory and Language, 142*, 104625. [https://doi.org/10.1016/j.jml.2025.104625](https://doi.org/10.1016/j.jml.2025.104625){target="_blank"}
+
+Dennis, N., Overman, A., Carpenter, C., Becker, A., **West, J. T.**, & Chase, S. (2025). The Otter and the cleaver: Exploring the neural underpinnings of unitization 	using the Gestalt principle of proximity. *Journal of Cognitive Neuroscience, 37*, 2409-2429. [https://doi.org/10.1162/jocn.a.78](https://doi.org/10.1162/jocn.a.78){target="_blank"}
+
+Turney, I. C., Steinkrauss, A. C., Wagner, R. L., Chamberlain, J. D., **West, J. T.**, Hakun, J. G., Ross, L. A., Kirchhoff, B. A., & Dennis, N. A. (2025). Neural effects of memory training to reduce false memories in older adults: Univariate and multivariate analyses. *Neurobiology of Aging, 147*, 187-202. [https://doi.org/10.1016/j.neurobiolaging.2024.12.007](https://doi.org/10.1016/j.neurobiolaging.2024.12.007){target="_blank"}
+
+### 2024
+
+**West, J. T.**, Kuhns, J. M., Touron, D. R., & Mulligan, N. W. (2024). Increased metamemory accuracy with practice does not require practice with metamemory. *Quarterly Journal of Experimental Psychology, 78*, 1280-1302. [https://doi.org/10.1177/17470218241269322](https://doi.org/10.1177/17470218241269322){target="_blank"} 
+
+### 2023
+
+Mulligan, N. W., Spataro, P., & **West, J. T.** (2023). Memory and attention: A double 	dissociation between memory encoding and memory retrieval. *Cognition, 238*, 105509. 	[https://doi.org/10.1016/j.cognition.2023.105509](https://doi.org/10.1016/j.cognition.2023.105509){target="_blank"}
+
+### 2022
+
+Mulligan, N. W., Buchin, Z. L., & **West, J. T.** (2022). Attention, the testing effect, and retrieval-induced forgetting: Distraction dissociates the positive and negative effects of retrieval on subsequent memory. *Journal of Experimental Psychology: Learning, Memory, and 	Cognition, 48*, 1905-1922. [https://doi.org/10.1037/xlm0001097](https://doi.org/10.1037/xlm0001097){target="_blank"}
+
+### 2021
+
+**West, J. T.**, & Mulligan, N. W. (2021). Investigating the replicability and boundary conditions of the mnemonic advantage for disgust. *Cognition and Emotion, 35*, 753-773. [https://doi.org/10.1080/02699931.2020.1863187](https://doi.org/10.1080/02699931.2020.1863187){target="_blank"}
+
+### 2020
+
+Mulligan, N. W., Buchin, Z. L., & **West, J. T.** (2020). Assessing why the testing effect is 	moderated by experimental design. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 46*, 1293-1308. [https://doi.org/10.1037/xlm0000787](https://doi.org/10.1037/xlm0000787){target="_blank"}
+
+### 2019
+
+**West, J. T.**, & Mulligan, N. W. (2019). Prospective metamemory, like retrospective	metamemory, exhibits underconfidence with practice. *Journal of Experimental	Psychology: Learning, Memory, and Cognition, 45*, 2224-2238. [https://doi.org/10.1037/xlm0000708](https://doi.org/10.1037/xlm0000708){target="_blank"}

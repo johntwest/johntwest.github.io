@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "John T. West, PhD"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Research Interests"
+        href: research.qmd
+      - text: "Publications"
+        href: papers.qmd
+      - text: "Curriculum Vitae"
+        href: cv/Curriculum Vitae - John West.pdf
+        target: _blank
+    left:
+      - icon: envelope
+        href: mailto:jwest@gettysburg.edu
+  page-footer: 
+    background: "#043371"
+    center: >-
+          &#169; 2026 John T. West &#8729; Made with [Quarto](https://quarto.org){target="_blank"}
+format:
+  html:
+    page-layout: full
+    theme: flatly
+    css: styles.css
+    toc: false
+    target: _blank

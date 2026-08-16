@@ -1,0 +1,36 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.column-page}
+
+:::: {layout = "[35, 65]" style = "align-items: flex-start; gap: 2rem; padding: 1.5rem 0 0 0;"}
+
+![](img/John West professional photo - 2021.jpg){style="border-radius: 4px; width: 100%;"}
+
+::: {.index-text}
+
+# John Thomas West
+
+### Visiting Assistant Professor <br> Department of Psychology <br> Gettysburg College
+
+---
+
+I am a cognitive psychologist who studies how human memory is impacted by factors such as emotion, aging, and the characteristics of witnessed crimes.
+
+---
+
+[{{< fa envelope >}} jwest@gettysburg.edu](jwest@gettysburg.edu) &nbsp;&nbsp;
+[{{< ai google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=9eNo6HQAAAAJ&hl=en){target="_blank"} &nbsp;&nbsp;
+[{{< ai researchgate >}} ResearchGate](https://www.researchgate.net/profile/John-West-17){target="_blank"} &nbsp;&nbsp;
+<br>
+[{{< ai osf >}} Open Science Framework](https://osf.io/fk4ys/){target="_blank"} &nbsp;&nbsp;
+[{{< fa brands orcid >}} ORCID](https://orcid.org/0000-0003-2350-1724){target="_blank"} &nbsp;&nbsp;
+[NIH Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/john.west.8/bibliography/public/){target="_blank"}
+
+:::
+
+::::
+
+:::
